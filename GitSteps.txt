@@ -1,0 +1,4 @@
+Git clone from website page
+Do your local changes(Helloworld.py)
+Do a git commit
+And do git push
